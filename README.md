@@ -87,9 +87,7 @@ Pelo seu terminal, escolha um local para o projeto e rode os comandos:
   # Inicie o servidor
   $ yarn dev:server
 
-  # Retorne ao diretório principal
-  $ cd ..
-
+  # Abra um novo terminal e vá até a pasta do diretório principal
   # Entre na pasta do front-end
   $ cd frontend
 
