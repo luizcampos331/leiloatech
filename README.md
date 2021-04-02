@@ -51,7 +51,7 @@ Database
 ## :dart: Objetivo
 - Realizar um lance para o leilão
 - Visualizar as regras do leilão
-- Eleger um vencedor do leilão
+- Eleger um vencedor do leilão (Para isso acesse o endereço: http://localhost:3000/elect-winner)
 
 - Ganha quem realizar o menor lance único
 
